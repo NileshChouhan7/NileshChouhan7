@@ -1,6 +1,6 @@
 ![](img.png)
-<h1 align="center">Hi 🙋, I'm Nilesh Chouhan</h1>
-<h3 align="center">My name is Nilesh Chouhan and I'm B.Tech(Final Year) Student</h3>
+<h1 align="center">Hi 👦, I'm Nilesh Chouhan</h1>
+<!-- <h3 align="center">My name is Nilesh Chouhan and I'm B.Tech(Final Year) Student</h3> -->
 
 <!-- - 🔭 I’m currently Pursuing <a href="#" target="_blank">Bachelor of Technology</a> in CSE. -->
 - 💻 I’m currently working with C,C++,Java,Python.
